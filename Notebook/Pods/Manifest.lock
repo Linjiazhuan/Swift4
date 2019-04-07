@@ -1,0 +1,22 @@
+PODS:
+  - SwipeCellKit (2.6.0)
+
+DEPENDENCIES:
+  - SwipeCellKit (from `https://github.com/SwipeCellKit/SwipeCellKit.git`, branch `develop`)
+
+EXTERNAL SOURCES:
+  SwipeCellKit:
+    :branch: develop
+    :git: https://github.com/SwipeCellKit/SwipeCellKit.git
+
+CHECKOUT OPTIONS:
+  SwipeCellKit:
+    :commit: b724892f8c4daab931de1b5555de3373107db184
+    :git: https://github.com/SwipeCellKit/SwipeCellKit.git
+
+SPEC CHECKSUMS:
+  SwipeCellKit: 935ca28c187ec6e1ffb2b578cf8ddca842bfdcbb
+
+PODFILE CHECKSUM: bd3c7b5b7b219edf6f4bd0cbb346fa07d9f041a9
+
+COCOAPODS: 1.5.3
